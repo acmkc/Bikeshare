@@ -38,7 +38,7 @@ I used the open source data from DC government for some metrics from the weather
 The limitations are that I only examined one season during 2022 without considering seasonality and that I assumed there were no other possible effects on the bike demand. However, this project could provide basic ideas of the bike allocation and some potential weather impacts on the bike demand.<br>
 <br>
 &#128202;&nbsp;&nbsp;Conclusion:<br>
-Since the number of drop-offs is greater than the number of pick-ups, there is no need for bike allocation. On a given day, we can see that the UV index is positively related to pick-up times, implying riders might need to be aware of the potential risk of skin-related diseases due to sun exposure. Also, windspeed has a negative relationship to pick-up times, meaning the Bikeshare could take advantage to maintain or repair the bikes and docks. 
+Since the number of drop-offs is greater than the number of pick-ups, there is no need for bike allocation. On a given day, we can see that the UV index is positively related to pick-up times, implying riders might need to be aware of the potential risk of skin-related diseases due to sun exposure. Also, windspeed has a negative relationship to pick-up times, meaning the Bikeshare could take advantage to maintain or repair the bikes and docks while the weather forecast a windy day.
 
 </body>
 </html>
