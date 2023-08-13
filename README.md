@@ -32,7 +32,7 @@ Weather Data - https://www.visualcrossing.com/weather-history/washington,%20dc/u
 From January to December 2022, and includes 33 columns and 365 rows<br>
 <br>
 &#128269;&nbsp;&nbsp;Methodology:<br>
-I used the open source data from DC government for some metrics from the weather data to investigate the whether the weather had certain impacts on the bike demand. Also, I examined the heatmap and the coefficiences between the weather variables and the pick up & drop off times using five regression models. Finally, after fine tuning hyperparameters, I selected the best performance by calculating the MSE. With the best performance model, I predicted the pick up & drop off times using the first occurrence from the test data.<br>
+I used the open source data from DC government for some metrics from the weather data to investigate whether the weather had certain impacts on the bike demand. Also, I examined the heatmap and the coefficiences between the weather variables and the pick up & drop off times using five regression models. Finally, after fine tuning hyperparameters, I selected the best performance by calculating the MSE. With the best performance model, I predicted the pick up & drop off times using the first occurrence from the test data.<br>
 <br>
 &#128681;&nbsp;&nbsp;Limitation:<br>
 The limitations are that I only examined one season during 2022 without considering seasonality and that I assumed there were no other possible effects on the bike demand. However, this project could provide basic ideas of the bike allocation and some potential weather impacts on the bike demand.<br>
