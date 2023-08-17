@@ -4,12 +4,7 @@
 </head>
 <body>
   <p>
-  <img 
-  src="https://github.com/acmkc/Bikeshare/blob/main/capital-bikeshare-scaled.jpg?raw=true"
-  alt="bikeshare"
-  width="800"
-  height="400"/>
-    
+ 
 &#128204;&nbsp;&nbsp;Table of Contents
 
 1  Exordium<br>
