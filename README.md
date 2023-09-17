@@ -33,6 +33,7 @@ Weather Data - https://www.visualcrossing.com/weather-history/washington,%20dc/u
 From January to December 2022, and includes 33 columns and 365 rows<br>
 <br>
 &#128204;&nbsp;&nbsp;Data description:<br>
+<br>
 <table>
     <tr>
         <th>Features</th>
@@ -92,7 +93,7 @@ From January to December 2022, and includes 33 columns and 365 rows<br>
     </tr>
     <tr>
 </table>
-
+<br>
 &#128269;&nbsp;&nbsp;Methodology:<br>
 I utilized open-source weather data to investigate potential correlations between weather conditions and bike demand at the bike share station near my school. I examined the heatmap and the coefficiences between the weather variables and the pick up & drop off times using five regression models. Finally, after fine tuning hyperparameters, I selected the best performance by calculating the MSE of each model. With the best performance model, I predicted the pick up & drop off times using the first occurrence from the test data.<br>
 <br>
