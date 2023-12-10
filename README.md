@@ -5,7 +5,7 @@
 <body>
   <p>
  
-🚲;&nbsp;&nbsp;Table of Contents
+🚲Table of Contents
 
 1  Exordium<br>
 2  Notebook Configuration<br>
@@ -25,7 +25,7 @@
 7  Model selection<br>
 8  Conclusion<br>
 <br>
-&#128204;&nbsp;&nbsp;Data source:<br>
+🚲Data source:<br>
 Capital Bikeshare Data - https://ride.capitalbikeshare.com/system-data<br>
 From January to April 2022, including 13 columns and 828,621 rows
 
